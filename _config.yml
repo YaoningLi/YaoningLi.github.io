@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Yaoning-Li"
 title_separator          : "-"
-name                     : &name "李耀宁"
-description              : &description "Mid-Level Mutimodal Algorithm Engineer"
+name                     : "李耀宁"
+description              : "Mid-Level Mutimodal Algorithm Engineer"
 url                      : https://YaoningLi.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YaoningLi/YaoningLi.github.io"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yaoning-Li"
-  #pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "Mid-Level Mutimodal Algorithm Engineer"
   location         : "HaiDian,Beijing"
   employer         : "NLPR,CASIA"
