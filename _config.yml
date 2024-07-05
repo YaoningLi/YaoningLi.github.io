@@ -21,7 +21,7 @@ repository               : "YaoningLi/YaoningLi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.png"
   name             : "Yaoning-Li"
   pronouns         : # example: "she/her"  
   bio              : "Mid-Level Mutimodal Algorithm Engineer,NLPR@CASIA"
