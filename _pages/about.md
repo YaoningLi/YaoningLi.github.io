@@ -17,4 +17,4 @@ Pedestrian intention prediction is a fundamental task in autonomous driving. Its
 
 📘Areas of Interest
 ======
-Planning to share the interesting work
+Planning to share some interesting work
