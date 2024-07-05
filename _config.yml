@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "Beijing,China"
 title                    : "Yaoning-Li"
 title_separator          : "-"
 name                     : "李耀宁"
