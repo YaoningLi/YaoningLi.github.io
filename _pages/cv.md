@@ -17,10 +17,10 @@ Education
 Work experience
 ======
   * October 2022 - : Mid-Level Algorithm Engineer
-  *  New Laboratory of Pattern Recognition(NLPR),Institute of Automation, Chinese Academy of Sciences(CASIA)
-  * Duties includes: Multimodal algorithm research and application
+    * New Laboratory of Pattern Recognition(NLPR),Institute of Automation, Chinese Academy of Sciences(CASIA)
+    * Duties includes: Multimodal algorithm research and application
 
   * August 2020 - October 2022: Assistant Algorithm Engineer
-  *  New Laboratory of Pattern Recognition(NLPR),Institute of Automation, Chinese Academy of Sciences(CASIA)
-  * Duties includes: Implementing practical applications of multimodal algorithms
+    *  New Laboratory of Pattern Recognition(NLPR),Institute of Automation, Chinese Academy of Sciences(CASIA)
+    * Duties includes: Implementing practical applications of multimodal algorithms
 
